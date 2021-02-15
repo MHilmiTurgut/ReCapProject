@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Business.Concrete
+namespace Entities.Abstract
 {
-    public class CarMaanger
+    public interface IEntity
     {
     }
 }
